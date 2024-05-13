@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import './Navbar.css'
 import logo from '../../assets/logo.png'
 import search_icon from '../../assets/search_icon.svg'
