@@ -30,7 +30,7 @@
 .hero_btns{
     display: flex;
     gap: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
 }
 
 .hero_btns .button img{
@@ -68,4 +68,12 @@
 
 .hero_btns #info:hover{
     background: #6d6d6e66;
+}
+
+.more_cards {
+    padding-left: 6%;
+}
+
+.cards {
+    margin-top: 10px;
 }
